@@ -1,5 +1,5 @@
 #list of sentence-ending punctuation to check for (to keep on all lines if found for each line, or delete on all if not)
-punclist = ['.','?','!','。','？','！']
+punclist = ['.','?','!','。','？','！','…']
 
 #list of formatting problems from Translatr to fix
 def fixfunc(fix):
